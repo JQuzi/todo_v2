@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Конфигурация и данные
+.env
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
